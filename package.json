@@ -1,0 +1,29 @@
+{
+  "name": "backbone-viewj",
+  "version": "1.0.0",
+  "description": "Backbone view with JBone injected",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/greenify/bacbone-viewj"
+  },
+  "keywords": [
+    "backbone",
+    "view",
+    "jbone"
+  ],
+  "author": "greenify <greenify@notsharingmy.info> (https://github.com/greenify)",
+  "license": "Apache 2",
+  "bugs": {
+    "url": "https://github.com/greenify/bacbone-viewj/issues"
+  },
+  "homepage": "https://github.com/greenify/bacbone-viewj",
+  "dependencies": {
+    "backbone-events-standalone": "^0.2.*",
+    "jbone": "^1.0.*",
+    "underscore": "^1.7.*"
+  }
+}
