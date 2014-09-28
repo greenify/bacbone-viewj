@@ -1,6 +1,6 @@
 {
   "name": "backbone-viewj",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Backbone view with JBone injected",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,7 @@
   "homepage": "https://github.com/greenify/bacbone-viewj",
   "dependencies": {
     "backbone-events-standalone": "^0.2.*",
+    "backbone-extend-standalone": "^0.1.2",
     "jbone": "^1.0.*",
     "underscore": "^1.7.*"
   }

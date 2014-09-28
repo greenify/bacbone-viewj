@@ -9,7 +9,7 @@
 
 var _ = require("underscore");
 var Events = require("backbone-events-standalone");
-var extend = require("./extend");
+var extend = require("backbone-extend-standalone");
 var $ = require('jbone');
 
 // Backbone Views are almost more convention than they are actual code. A View
